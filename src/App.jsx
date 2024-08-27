@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 
 
 const auth = new GoTrue({
-  APIUrl: 'https://<your domain name>/.netlify/identity',
+  APIUrl: 'https://allan1.netlify.app/.netlify/identity',
   audience: '',
   setCookie: false,
 });
